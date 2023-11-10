@@ -39,6 +39,9 @@
 | [James Bond Gold Finger]() | 
 | [James Bond Casino Royale (non comedy)]() | 
 | [300]() | 
+| [Talledega Knights]() |
+| [Caddy Shack]() |
+| [Silence of the Lambs](https://www.imdb.com/title/tt0102926/) | 1991 | Drama | 
 | [Good Fellas]() | 
 | [Back to School]() | 
 | [One Flew Over the Cook's Nest]() | 
@@ -46,6 +49,8 @@
 | [Lucky Number Sleven]() | 
 | [Dawsons Creek]() | 
 | [Momento]() | 
+| [Underworld](https://www.imdb.com/title/tt0320691/]) | 2003 | Action |
+| [Fifth Element](https://www.imdb.com/title/tt0119116/) | 1997 | Sci-Fi |
 | [Caddy Shack]() | 
 | [Breakfast Club]() | 
 | [Hackers](https://www.imdb.com/title/tt0113243) | 1995 | Crime |
