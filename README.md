@@ -25,7 +25,7 @@
 | [Trolls](https://www.imdb.com/title/tt1679335) | 2016 | Animation | 
 | [Blade Runner 2049](https://www.imdb.com/title/tt1856101) | 2017 | Sci-Fi |
 | [The Inglorious Bastards](https://www.imdb.com/title/tt0076584) | 1978 | War |
-| [No Hard Feelings](https://www.imdb.com/title/tt15671028/) | 2023 | Comedy |
+| [No Hard Feelings](https://www.imdb.com/title/tt15671028/) | 2023 | Comedy | 1/2024 | 8/10 |
 | [The Lord Of The Rings]() | 
 | [Rememberance](https://www.imdb.com/title/tt1728620/) | 2011 | War |
 | [A Few Good Men]() | 
