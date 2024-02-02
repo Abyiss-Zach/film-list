@@ -25,6 +25,7 @@
 | [Trolls](https://www.imdb.com/title/tt1679335) | 2016 | Animation | 
 | [Blade Runner 2049](https://www.imdb.com/title/tt1856101) | 2017 | Sci-Fi |
 | [The Inglorious Bastards](https://www.imdb.com/title/tt0076584) | 1978 | War |
+| [No Hard Feelings](https://www.imdb.com/title/tt15671028/) | 2023 | Comedy |
 | [The Lord Of The Rings]() | 
 | [Rememberance](https://www.imdb.com/title/tt1728620/) | 2011 | War |
 | [A Few Good Men]() | 
@@ -42,6 +43,7 @@
 | [James Bond Casino Royale (non comedy)]() | 
 | [300]() | 
 | [Talledega Knights]() |
+| [Wayne's World](https://www.imdb.com/title/tt0105793/) | 1992 | Comedy |
 | [Caddy Shack]() |
 | [Silence of the Lambs](https://www.imdb.com/title/tt0102926/) | 1991 | Drama | 
 | [Good Fellas]() | 
