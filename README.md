@@ -35,6 +35,7 @@
 | [There will be Blood](https://www.imdb.com/title/tt0469494/) | 2007 | Drama |
 | [The Good The Bad and The Ugly]() | 
 | [Gran Torino]() | 
+| [Ricky Stanicky](https://www.imdb.com/title/tt1660648/) | 2024 | Comedy |
 | [Over the Top]() | 
 | [The Godfather]() | 
 | [Downfall](https://www.imdb.com/title/tt0363163/) | 2004 | History | 
