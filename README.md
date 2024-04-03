@@ -54,7 +54,11 @@
 | [Good Fellas]() | 
 | [Back to School]() | 
 | [One Flew Over the Cook's Nest]() | 
-| [Se7en]() | 
+| [The Grand Budapest Hotel](https://www.imdb.com/title/tt2278388/) | 2014 | Adventure | 
+| [The Wonderful Story of Henry Sugar](https://www.imdb.com/title/tt16968450/) | 2023 | Adventure | 
+| [Everything Everywhere at Once](https://www.imdb.com/title/tt6710474/) | 2022 | Adventure | 
+| [Fantastic Mr. Fox](https://www.imdb.com/title/tt0432283/) | 2009 | Animation | 
+| [Se7en](https://www.imdb.com/title/tt0114369/) | 1995 | Crime | 
 | [Lucky Number Sleven]() | 
 | [Dawsons Creek]() | 
 | [Momento]() | 
